@@ -6,6 +6,10 @@
   ☕ Code and coffee
 </h4>
 
+<p align="center">
+  <img alt="Frontend" src="images/aircnc.png" width="100%">
+</p>
+
 # OmniStack 9.0
 
 A semana OmniStack é uma semana dedicada a preparação dos desenvolvedores antes do Rocketseat bootcamp. Durante a semana, um projeto é implementado totalmente do zero.
